@@ -278,7 +278,7 @@ Potential extensions include:
 
 ## Author
 
-**CHALLAL Saloua**  
+**Ghemmour Lehna**  
 Master's Student in Visual Computing (MIV)  
 University of Science and Technology Houari Boumediene (USTHB)  
 Academic Year 2025–2026
